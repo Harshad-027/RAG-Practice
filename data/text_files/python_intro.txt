@@ -1,0 +1,14 @@
+Python is a high-level, general-purpose programming language known for its
+clear syntax and readability. It is widely used in web development,
+automation, data analysis, artificial intelligence, scientific computing,
+and software testing. Python programs are usually shorter and easier to
+understand than equivalent programs written in many lower-level languages.
+Its large standard library provides useful modules for tasks such as working
+with files, dates, mathematics, regular expressions, and networking.
+Python supports multiple programming styles, including procedural,
+object-oriented, and functional programming. Variables do not require
+explicit type declarations, which makes rapid experimentation convenient.
+Popular libraries such as NumPy, pandas, Flask, Django, and Matplotlib
+extend Python’s capabilities. Beginners often choose Python because its
+simple structure helps them focus on logic, problem-solving, and building
+practical projects rather than complex language syntax.

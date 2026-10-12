@@ -1,0 +1,13 @@
+Machine learning is a branch of artificial intelligence in which computer
+systems learn patterns from data instead of relying only on manually written
+rules. A machine-learning model is trained using examples, then used to make
+predictions or decisions on new, unseen data. Common applications include
+spam-email detection, product recommendations, image recognition, fraud
+detection, language translation, and medical-data analysis. Supervised
+learning uses labeled data, such as emails marked spam or not spam.
+Unsupervised learning finds hidden groups or patterns in unlabeled data.
+Reinforcement learning improves decisions through rewards and penalties.
+The quality of data, feature selection, model choice, and evaluation methods
+strongly affect results. Python is commonly used for machine learning because
+libraries such as scikit-learn, TensorFlow, PyTorch, NumPy, and pandas make
+data preparation, training, testing, and deployment more practical.
